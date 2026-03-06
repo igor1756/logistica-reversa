@@ -1,0 +1,22 @@
+# dependencies
+node_modules
+
+# build
+dist
+.next
+out
+
+# logs
+npm-debug.log
+yarn-error.log
+
+# environment
+.env
+.env.local
+
+# prisma
+prisma/dev.db
+
+# OS
+.DS_Store
+Thumbs.db
